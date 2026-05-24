@@ -11,30 +11,6 @@
 
 ---
 
-## 🎮 RPG Profile Stats
-
-<div align="center">
-
-### ⚔️ Developer Character Sheet
-
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=ZurdiGonzi&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github)
-
-### 📊 Language Mastery
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZurdiGonzi&theme=tokyonight&layout=compact&hide_progress=false)
-
-### 🔥 Contribution Streak & Achievements
-
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZurdiGonzi&theme=tokyonight&stroke=DD5DE4&ring=DD2EFF&fire=FF0000&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true)
-
-### 🏆 Trophy Case
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ZurdiGonzi&theme=tokyonight&no-bg=true&no-frame=true)
-
-</div>
-
----
-
 ## ⚡ Quick Intro
 
 Software Engineering student who loves building **robust, scalable, and secure** applications. I'm passionate about **clean code**, **solid architecture**, and **making things work properly**. Currently focused on Full-Stack Development, Cloud Architecture, and Cybersecurity practices.
@@ -82,6 +58,16 @@ Software Engineering student who loves building **robust, scalable, and secure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZurdiGonzi&theme=tokyonight)
+
+</div>
 
 ---
 
