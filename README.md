@@ -22,7 +22,7 @@ Software Engineering student who loves building **robust, scalable, and secure**
 | 🎮 **MTG DeckBuilding App** | 🐚 **Minishell** | 🛠️ **DAW** |
 |---|---|---|
 | Magic deck builder with advanced search & statistical analysis | POSIX shell interpreter in pure C with pipes & redirections | Data processing & analysis tools |
-| [Java • Spring Boot • MySQL](https://github.com/ZurdiGonzi/MTG-DeckBuilding-App) | [C • System Calls • OS Concepts](https://github.com/ZurdiGonzi/minishell) | [Python • Big Data • Analytics](https://github.com/ZurdiGonzi/daw) |
+| [Java • Spring Boot • MySQL](https://github.com/ZurdiGonzi/MTG-DeckBuilding-App) | [C • System Calls • OS Concepts](https://github.com/ZurdiGonzi/minishell) |
 
 ---
 
