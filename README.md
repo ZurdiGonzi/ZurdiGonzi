@@ -65,10 +65,6 @@ Software Engineering student who loves building **robust, scalable, and secure**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZurdiGonzi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZurdiGonzi&layout=compact&theme=tokyonight&langs_count=10)
-
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZurdiGonzi&theme=tokyonight)
 
 </div>
